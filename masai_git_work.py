@@ -1,2 +1,6 @@
 print("A")
 print("B")
+print("C")
+print("Hello World!")
+print("I am Good at Python")
+print("AI and ML + Masai School")
